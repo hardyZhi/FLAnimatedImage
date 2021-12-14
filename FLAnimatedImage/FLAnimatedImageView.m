@@ -119,7 +119,7 @@
             // Stop animating before the animated image gets cleared out.
             [self stopAnimating];
             // Clear out the image.
-            super.image = nil;
+//            super.image = nil;
         }
         
         _animatedImage = animatedImage;
